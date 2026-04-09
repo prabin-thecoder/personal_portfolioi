@@ -1,11 +1,26 @@
+#Name: Prakash Kumar Yadav
+Student ID: 11989
+
+Project: Personal Portfolio Website
+
+How to run:
+Open index.html in browser
+
+Tools used:
+HTML, CSS, JavaScript, VS Code
+
+Features:
+Responsive design, form validation
+
+
 # Personal Portfolio Website
 
 A clean, responsive personal portfolio for **Prakash Kumar Yadav**. The site highlights services, featured projects, skills, and provides a contact form for project inquiries.
 
 ## Pages
-- `index.html` — Home page with hero intro, services, featured projects, skills, and CTA
-- `about.html` — Background, approach, milestones, and strengths
-- `contact.html` — Contact details and inquiry form
+- `index.html` ï¿½ Home page with hero intro, services, featured projects, skills, and CTA
+- `about.html` ï¿½ Background, approach, milestones, and strengths
+- `contact.html` ï¿½ Contact details and inquiry form
 
 ## Features
 - Sticky navigation with active states and CTA button
